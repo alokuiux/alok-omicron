@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alok-omicron
 - 👀 I’m interested in Making project ideas and IOT based work
 - 🌱 I’m currently learning Programming language C
-- 💞️
 - 📫 How to reach me ...@asaloksaha6631@gmail.com
 - 
 
